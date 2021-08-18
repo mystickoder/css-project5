@@ -1,0 +1,28 @@
+h1
+{
+background-color:yellow;
+width: 35%;
+}
+
+
+
+
+h2
+{
+width: 40%;
+background-color:green;
+
+}
+
+body
+{
+height: 100%;
+background-image: url("bird5.jpg");
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+}
+
+
+
+/* body {background-color:gray;*/
